@@ -1,2 +1,4 @@
 - Mi nombre es Eloy Antonio Clemente Rosas
-- Me interesa la programación web. Fronted o Backend.
+
+Lenguajes de programación: C#, Java, Javascript, Css y actualmente trabajo con Phyton.
+Sistemas operativos: Windows, Linux.
