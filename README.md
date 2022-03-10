@@ -1,5 +1,6 @@
-# Soy Eloy Antobio Clemente Rosas
-## Actualmente realizo mi residencia profesional de la carrera Ing. En Sistemas Computacionales.  En la especialidad de Seguridad en Redes.  
+# Soy Eloy Antonio Clemente Rosas
+## Actualmente realizo mi residencia profesional de la carrera Ing. En Sistemas Computacionales.  
+### En la especialidad de Seguridad en Redes.  
 Actualmente trabajo con Redes Neuronales en Pytorch.  
 
 Lenguajes de programación que domino: C#, Java, Css y actualmente trabajo con Phyton.  
