@@ -5,6 +5,6 @@
 Quiero dedicarme a la programacion web, en fronted de preferencia.
 
 Domino: C#, HTML, Javascript, Java, Css, y actualmente trabajo con Phyton.  
-Framework: VUE
+Aprendiedo actualmente el Framework: React.
 Sistemas operativos que manejo: Windows [10, 7], Linux [Ubuntu, FreeBSD, Mint].
 
