@@ -1,13 +1,11 @@
 <h1 align="center">Hola, Soy Eloy Antonio Clemente Rosas</h1>
 <h3 align="center">Me interesa el desarrollo de aplicaciones web y escritoio</h3>
 
-- 🔭 Actualmente estoy realizando mi residencia [Reconocimiento y Seguimiento de Objetos en entorno controlado](https://github.com/EloyFtw/Residencia-profesional)
+- 🔭 Actualmente Soy Ingeniero de Soporte en Walmart MX
+- 
+- 👯 Estudie Ingeniería en Sistemas Computacionales **En el instituto Tecnológico de la Paz**
 
-- 👯 Soy estudiante de Ingeniería en Sistemas Computacionales **En el instituto Tecnológico de la Paz**
-
-- 📫 Mi correo de contacto es **Eloyteamajulis@gmail.com**
-
-- 📄 Tengo experiencia como [formateo, mantenimiento, instalación y actualización de software, desarrollo de aplicaciones de escritorio,](formateo, mantenimiento, instalación y actualización de software, desarrollo de aplicaciones de escritorio,)
+- 📫 Mi correo de contacto es **Eloyantonioclementerosas@gmail.com**
 
 - ⚡ Me gusta hacer deporte **Futbol, box, atletismo.**
 
